@@ -2,10 +2,8 @@
 <br />
 
 <sub align="center">
-  Welcome to my profile! I'm Ziggy, a self-taught software developer based in South Texas. My programming journey began with C++ and QBasic, but I truly embraced the power of coding with JavaScript, Python, and Rust. I've recently embarked on a new venture, founding Z90 Studios, with a mission to create cutting-edge products and achieve financial independence.
+  What's up everybody, I'm Ziggy AKA @jzanecook AKA Big Z. I like Rust and Typescript and Python just about in that order, and I hope to one day win over your heart <3
 </sub>
-<br />
-<sub align="center">In addition to my development work, I'm actively engaged in the Agent Protocol, an open-source initiative for AI agents under the AI Engineer Foundation. Let's connect and explore the exciting world of programming, innovation, and AI together! Feel free to reach out on Discord or visit my website to discover more about my projects and contributions.</sub>
 
 <p align="center"><sub>
   <a href="https://twitter.com/jzanecook">Twitter</a> |
