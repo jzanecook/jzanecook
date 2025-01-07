@@ -21,6 +21,14 @@
 </p>
 
 <details align="center">
+  <summary>Polkadot Key</summary>
+
+  ```
+5ELmozJS4R4bTAUsuYUWtNE4Z5JwtoLZQLyJKFxFgWfX1yNX
+  ```
+</details>
+
+<details align="center">
   <summary>GPG Public Key</summary>
   
   
