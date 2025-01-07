@@ -1,9 +1,12 @@
-<h3 align="center">J. Zane Cook</h3>
+<h3 align="center">Ziggy - <code>._z</code> on Discord</h3>
 <br />
-
-<sub align="center">
-  What's up everybody, I'm Ziggy AKA @jzanecook AKA Big Z. I like Rust and Typescript and Python just about in that order, and I hope to one day win over your heart <3
+<p align="center"><sub>
+  What's up everybody, I'm Ziggy AKA @jzanecook AKA Big Z. 
 </sub>
+<br />
+<sub>
+  I like Rust and Typescript and Python just about in that order, and I hope to one day win over your heart <3
+</sub></p>
 
 <p align="center"><sub>
   <a href="https://twitter.com/jzanecook">Twitter</a> |
