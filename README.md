@@ -28,6 +28,13 @@
 5ELmozJS4R4bTAUsuYUWtNE4Z5JwtoLZQLyJKFxFgWfX1yNX
   ```
 </details>
+<details align="center">
+  <summary>Ethereum Key</summary>
+
+  ```
+0x701a0652197eA48Fca42751FA222979d0214a696
+  ```
+</details>
 
 <details align="center">
   <summary>GPG Public Key</summary>
